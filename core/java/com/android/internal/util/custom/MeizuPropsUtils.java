@@ -37,7 +37,6 @@ public class MeizuPropsUtils {
     private static final Map<String, Object> propsToChange;
 
     private static final String[] packagesToChange = {
-        "com.hihonor.cloudmusic",
         "com.netease.cloudmusic",
         "com.tencent.qqmusic",
         "com.kugou.android",
